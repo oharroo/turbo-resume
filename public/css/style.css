@@ -849,15 +849,16 @@ img.svg {
 
 .test {
   width: 100%;
-  height: 100%;
+  height: 270px;
   margin-bottom: 15px;
+  overflow: hidden;
 }
 .test3 {
-  height: 100%;
+  height: 80px;
 }
 
 .test2 {
-  margin-top: 25px;
+  height: 10px;
 }
 
 .arlo_tm_about_wrap .buttons_wrap ul {
