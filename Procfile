@@ -1,1 +1,1 @@
-web: turbo devserver
+web: npm start
